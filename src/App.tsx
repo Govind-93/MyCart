@@ -1,7 +1,7 @@
 
 
 function App() {
-  return <div>Hello World</div>
+  return <div style={{fontWeight:700}}>Hello World</div>
 }
 
 export default App
